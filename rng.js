@@ -35,3 +35,5 @@ export function checkRandomNumber(array) {
 
   return payload;
 }
+
+// Oi sou o Tiago :) apesar de ser iniciante eu dei o meu melhor 😊
