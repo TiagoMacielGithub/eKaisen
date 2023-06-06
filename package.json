@@ -1,0 +1,17 @@
+{
+  "name": "ekaisen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node map_values.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
